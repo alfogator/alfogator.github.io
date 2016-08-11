@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gator Bytes</title>
+    <link>http://swamp.gator.it/</link>
+    <description>Recent content on Gator Bytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Aug 2016 09:57:08 +0200</lastBuildDate>
+    <atom:link href="http://swamp.gator.it/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://swamp.gator.it/2016/08/11/test</link>
+      <pubDate>Thu, 11 Aug 2016 09:57:08 +0200</pubDate>
+      
+      <guid>http://swamp.gator.it/2016/08/11/test</guid>
+      <description>&lt;p&gt;Let see how this works&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
